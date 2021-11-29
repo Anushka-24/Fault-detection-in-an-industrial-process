@@ -1,0 +1,3 @@
+This is one of the practical assignments of advanced data analysis and machine learning which I have done while studing at the university.In this practical assignment 21 datasets are provided by the supervisor. I have selected four data
+sets which are d00_te, d02_te, d09_te & d18_te. Data set d00_te is the original data set, which is in a normal condition, but the other three data set has fault and d09_te is the most difficult one. To detect the fault in the data set, I have used two-dimension reduction techniques which are
+Principle component analysis and dynamic principle component analysis. The details will be found in the 'Report' file.
